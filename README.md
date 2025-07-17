@@ -1,1 +1,2 @@
-A well written Python Password Generator written in Python 3.12.
+# PasswordGenerator
+A well written password generator script using selenium, time libraries. Built for Python 3.12
